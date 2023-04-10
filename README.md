@@ -60,13 +60,13 @@ Weather at ~80F has significantly greater proportion of CH coupon acceptances th
 
 # Conclusion - Business Actionable Items for the Future
 
-Here is a list of recommendations for groups to be targetted with extra CH coupons based on the findings in this report:
+**Here is a list of recommendations for groups to be targetted with extra CH coupons based on the findings in this report:**
 1. People who frequent coffee houses
 2. People who are driving in warmer weather (above room temp, approximately)
 3. Healthcare and technical healthcare professionals
 4. People who are driving alone
 
-Here is a list of items that require further study
+**Here is a list of items that require further study**
 1. What criteria makes people who are driving with kids accept or reject the coupon?
 2. How does extreme snowy weather compare with 'light' or 'average' snowy weather when it comes to coupon acceptance?
 3. How do the groups which accept the coupon for immediate use vs groups who accept it for future use compare? Are there any differences?
