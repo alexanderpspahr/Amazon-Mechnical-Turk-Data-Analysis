@@ -54,7 +54,7 @@ I guess it is no surprise. We can surmise this likely applies to people who woul
 
 ### Insight 5: Above room temperature weather is correlated with CH coupon acceptance
 
-![image](https://user-images.githubusercontent.com/129889030/231000440-4970f0f9-9453-4153-9393-964a813278ef.png)
+![image](https://user-images.githubusercontent.com/129889030/231002515-5c60b5e8-16d4-457d-96df-c44ecb1ab22a.png)
 
 Weather at ~80F has significantly greater proportion of CH coupon acceptances than weather below that threshold. This is a potentially surprising find given that one may assume that people enjoy drinking hot coffee during cold weather, but it is highly relevant.
 
